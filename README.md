@@ -13,11 +13,11 @@ Hence lowering the cancellation is our priimary goal to increase their efficienc
 6. Client make bookings and cancellation on the same year.
    
 ## RESEARCH QUESTIONS
-1.What are the factors or variables that affect hotel booking cancellations?  /n
-2.How can we decrease the booking cancellations? /n
-3.How will the hotels be assisted in making pricing and promotional decisions? /n
+1.What are the factors or variables that affect hotel booking cancellations?  <br>
+2.How can we decrease the booking cancellations?  <br>
+3.How will the hotels be assisted in making pricing and promotional decisions?  <br>
 
 ## HYPOTHESIS
-1.More cancellations occur when the booking rates are higher. /n
-2.When there is no clarity of rooms available or rooms are in waiting list option they tend to cancel it more frequently. /n
-3.Cancellations are seen higher if they are booking reservations via offline travel agents. /n
+1.More cancellations occur when the booking rates are higher.  <br>
+2.When there is no clarity of rooms available or rooms are in waiting list option they tend to cancel it more frequently.  <br>
+3.Cancellations are seen higher if they are booking reservations via offline travel agents.  <br>
