@@ -33,5 +33,22 @@ Hence lowering the cancellation is our priimary goal to increase their efficienc
 
 1.City hotel lines are in mid compared to resort hotels and certain spiikes are observed in  resort hotels indicating increase in price during the weekends.<br>
 2.At certain days the price of city hotels are less when compared to resort hotels.<br>
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/d3c527d8-e00b-49a4-99af-a69232926192"><br>
+1. It shows the reservation stausof each month 1- JAN TO 12- DEC.<br>
+2.From the graph we see that AUGUST has high Booking and also low cancellation while JANUARY observing  the highest cancellation.<br>
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/b9b7e812-7c3d-477e-87a8-23c129f92dcf"><br>
+1.It is observed that JANUARY has highest cancellation while AUGUST has least cancellation.<br>
+2. It shows that as price gets higher the more will be the cancellation rate. So, accomodation cost is solely responsible for cancellation.<br>
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/dff4278b-893f-4776-8867-5b39abf0e89f"> <br>
+
+1. From the above pie chart is it is observed that PORTUGUESE has the highest booking cancellation while USA,BELGIUM,BRAZIL being the least. <br>
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/65686cf4-d336-4ed2-aa7c-e018aa7204ff"><br>
+
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/fdb2e56f-c59c-4c51-8d7e-4b52e738ba2b"><br>
+
+1.From the above graph it is seen that majority of customers book reservation through  Online Travel Agent <br>
+2.So the assumption that Cancellation is seen more from Offline Travel Agent seems to be false.<br>
+
+
 
 
