@@ -47,7 +47,7 @@ Hence lowering the cancellation is our priimary goal to increase their efficienc
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/fdb2e56f-c59c-4c51-8d7e-4b52e738ba2b"><br>
 
 1.From the above graph it is seen that majority of customers book reservation through  Online Travel Agent <br>
-2.So the assumption that Cancellation is seen more from Offline Travel Agent seems to be false.<br>
+2.So the assumption that Cancellation is seen more from Offline Travel Agent is found to be false.<br>
 
 
 
