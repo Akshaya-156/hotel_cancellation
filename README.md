@@ -41,7 +41,7 @@ Hence lowering the cancellation is our priimary goal to increase their efficienc
 2. It shows that as price gets higher the more will be the cancellation rate. So, accomodation cost is solely responsible for cancellation.<br>
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/dff4278b-893f-4776-8867-5b39abf0e89f"> <br>
 
-1. From the above pie chart, it is observed that PORTUGUESE has the highest booking cancellation while USA,BELGIUM,BRAZIL being the least. <br>
+1. From the above pie chart, it is observed that PORTUGAL has the highest booking cancellation while USA,BELGIUM,BRAZIL being the least. <br>
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/65686cf4-d336-4ed2-aa7c-e018aa7204ff"><br>
 
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/fdb2e56f-c59c-4c51-8d7e-4b52e738ba2b"><br>
@@ -77,7 +77,7 @@ Hence lowering the cancellation is our priimary goal to increase their efficienc
    3. Reinforce your market positioning as a premium or value-driven property. <br>
    4.Increase prices as demand increases but ensure rates remain competitive. <br>
    
-5. So PORTUGUESE must address the issues to reduce cancellations:-  <br>
+5. So PORTUGAL must address the issues to reduce cancellations:-  <br>
     1.Tailor marketing efforts to address concerns or preferences of customers from these countries. <br>
     2.Offer promotions or incentives to reduce cancellations.  <br>
     3.Adjust booking and cancellation policies for guests from these countries to mitigate potential revenue loss.  <br>
