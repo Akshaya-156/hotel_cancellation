@@ -1,4 +1,4 @@
-## HOTEL BOOKING CANCELLATION
+## HOTEL BOOKING CANCELLATION <ins>
 
 ### PROBLEM STATEMENT
 City Hotels and Resorts are experiencing high booking cancellations rates which in turn leads to fewer revenues and less than ideal hotel room use.
@@ -7,7 +7,7 @@ Hence lowering the cancellation is our priimary goal to increase their efficienc
 ### ASSUMPTIONS
 1. Assume there is no outliers between 2015 and 2017 will have an substantial impact on data used.
 2. This is a current data and can be used to analyze  hotel's possible plans in an efficient way.
-3. The solutions ansd suggestions provided by us to the hotel will be agreed with utmost sincerity and without any negative remarks.
+3. The solutions and suggestions provided by us to the hotel will be agreed with utmost sincerity and without any negative remarks.
 4. The solution provided to hotels is not used by them currently.
 5. The biggest factor affecting the revenue of hotels is booking cancellation.
 6. Client make bookings and cancellation on the same year.
